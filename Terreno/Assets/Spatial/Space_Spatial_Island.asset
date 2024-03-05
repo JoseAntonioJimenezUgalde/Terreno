@@ -12,9 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
   m_Name: Space_Spatial_Island
   m_EditorClassIdentifier: 
-  version: 0
+  version: 1
   sku: 
-  packageName: Spatial Island
-  thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
+  packageName: Terrein Antton
+  thumbnail: {fileID: 2800000, guid: 1a1268842e946ed469e34f2240c495bc, type: 3}
+  savedProjectSettings: {fileID: 0}
   worldID: 
-  scene: {fileID: 102900000, guid: 99c9720ab356a0642a771bea13969a05, type: 3}
+  scene: {fileID: 102900000, guid: 7ba108c8317f2de439600f2849ce99e2, type: 3}
+  csharpAssembly: {fileID: 0}
+  embeddedPackageAssets: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 50
